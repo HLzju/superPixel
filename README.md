@@ -1,5 +1,9 @@
 # superPixel
 super pixel from https://bitbucket.org/mboben/spixel/src
+
+## Effect
+![Image text](superPixel/mboben-spixel/test_image/69000_sp.jpg)
+
 ## requirements
   opencv
   xcode 
